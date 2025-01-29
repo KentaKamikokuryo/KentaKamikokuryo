@@ -1,5 +1,3 @@
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=KentaKamikokuryo&theme=vue-dark&show_icons=true)](https://github.com/KentaKamikokuryo/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KentaKamikokuryo&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/KentaKamikokuryo/github-readme-stats)
 
 <!--
