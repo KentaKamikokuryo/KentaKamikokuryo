@@ -1,5 +1,2 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/
-?username=KentaKamikokuryo
-&theme=vue-dark
-&layout=compact)]
-(https://github.com/KentaKamikokuryo)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KentaKamikokuryo)](https://github.com/EthanJamesLew/github-readme-stats-academic)
+
